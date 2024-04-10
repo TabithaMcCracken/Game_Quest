@@ -1,3 +1,9 @@
+// Sudoku game - each row, column, and 3x3 box must have 1-9 not repeating
+// Features to add:
+// Add feature so that number stays highlighted when selected
+// Reload the page if you win or loose, use window.location.reload();
+// Add levels and more game boards
+
 var numSelected = null;
 var tileSelected = null;
 var errors = 0;
